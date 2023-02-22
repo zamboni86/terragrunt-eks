@@ -1,0 +1,5 @@
+# ignore terraform created files
+.terraform*
+
+# state is stored locally, ignore
+terraform.tfstate*
